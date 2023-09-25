@@ -499,7 +499,7 @@ img.bubble-border {
 /************ Contact Css ************/
 .contact {
   background: #40798c;
-  padding: 60px 0 200px 0;
+  padding: 10px 0 100px 0;
 }
 .contact img {
   width: 92%;
@@ -507,6 +507,9 @@ img.bubble-border {
 .contact h2 {
   font-size: 45px;
   font-weight: 700;
+  margin-bottom: 30px;
+}
+.contact p {
   margin-bottom: 30px;
 }
 .contact form input,
