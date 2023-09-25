@@ -10,10 +10,11 @@ export const Contact = () => {
     <section className="contact" id="connect">
       <Container>
         <Row className="align-items-center">
-          <Col md={6}>
+          <Col md={2}></Col>
+          <Col md={4}>
             <img src={contactImg} alt="Contact Us" style={{ width: "50%" }} />
           </Col>
-          <Col md={6}>
+          <Col md={4}>
             <h2>Get In Touch</h2>
             <p>hannahmthomas1@gmail.com</p>
             <div className="social-icon">
@@ -28,6 +29,7 @@ export const Contact = () => {
               </a>
             </div>
           </Col>
+          <Col md={2}></Col>
         </Row>
       </Container>
     </section>
