@@ -16,7 +16,7 @@ export const Contact = () => {
           </Col>
           <Col md={4}>
             <h2>Get In Touch</h2>
-            <p>hannahmthomas1@gmail.com</p>
+            <p>luebkehan@gmail.com</p>
             <div className="social-icon">
               <a href="https://www.linkedin.com/in/hannahluebke/">
                 <img src={navIcon1} alt="Icon" />
